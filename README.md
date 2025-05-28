@@ -1,5 +1,7 @@
 # AntiRizzGPT
 
+![AntiRizzGPT](https://i.imgur.com/YbnGMtB.gif)
+
 💀 The world's worst wingman — on purpose.
 
 AntiRizzGPT is a project where you send your best flirt attempts to an AI... and it ruins them. 
