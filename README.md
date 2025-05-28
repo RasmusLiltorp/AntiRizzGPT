@@ -5,7 +5,7 @@
 💀 The world's worst wingman — on purpose.
 
 AntiRizzGPT is a project where you send your best flirt attempts to an AI... and it ruins them. 
-Built for software engineers with too much time and too little game.
+Built for software engineers with too much time.
 
 ## Features
 - 🌶️ Takes your smooth line and mangles it with cringe
