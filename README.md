@@ -1,8 +1,12 @@
 # AntiRizzGPT
 
+![.NET](https://img.shields.io/badge/Backend-.NET%209-blueviolet)
+![Nuxt](https://img.shields.io/badge/Frontend-Nuxt-42b883)
+![Success Rate](https://img.shields.io/badge/Success--Rate-0%25-critical)
+
 ![AntiRizzGPT](https://i.imgur.com/YbnGMtB.gif)
 
-💀 The world's worst wingman — on purpose.
+The world's worst wingman — on purpose.
 
 AntiRizzGPT is a project where you send your best flirt attempts to an AI... and it ruins them. 
 Built for software engineers with too much time.
